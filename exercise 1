@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html> 
+  <head>
+    <title> Hallo HTML </title>
+  </head>
+  <body>
+    <em>Hallo-Hallo</em> 
+    <p><img src="https://drscdn.500px.org/photo/141042513/m%3D900_s%3D1_k%3D1_a%3D1/v2?webp=true&v=3&sig=4b65f8b02d97e45ce070e3780e96e6348cc8b800bbb5a2c716fee7772406a5b0" width="200px" ></img>
+    </p>
+    <h1><b>Ini adalah Biografi singkatku</b></h1>
+    <p>Nama Saya adalah Ana, mahasiswi sistem informasi konsentrasi komputer akuntansi, Saya belum memiliki latar belakang pemrograman,          ini merupakan pembelajaran pertama saya mengenai program walau ini masih belum bisa disebut program karena masih html hehe namun          saya senang karena menarik bagi Saya, dan berharap Saya bisa melakukannya menjadi seorang programmer, hobby saya adalah membaca,          saya tertarik dengan negeri jepang, jadi hampir keseluruhan hobby saya mengenal budaya jepang namun akhir - akhir ini saya juga            sedang menyukai game, saking sukanya hampir tidak ada waktu lain selain main game hehe, website yang paling aku sering kunjungi,          coocking recipe japan and learn japanese language, serta website yang menunjukan pemandangan - pemandangan yang amaze
+    </p>
+    <br/>
+    <hr/><b>Selanjutnya adalah Makanan Favourite serta situs recipenya</b>
+       <ul><b>Makanan Favourite</b>
+       	   <li>Ayam Teriyaki Rendah Garam</li> 
+           <li>Maki-Zushi (Sushi Gulung)</li>
+           <li>Doraikare (Kari Kering Ala Jepang)</li>
+       </ul>
+    <p><b>Nah ini dia gambarnya</b></p>
+    <img src="https://4.bp.blogspot.com/-DxgVYLuDr9U/WPn2UNt4F5I/AAAAAAAAJuE/Dluigpx0dHIFvb1lUl2OKnenzV-tLF1-gCLcB/s1600/ayam-teriyaki.jpg" width="250px" >
+       <a href="https://www3.nhk.or.jp/nhkworld/id/radio/cooking/20170428.html" target="_parent">Klik Recipenya!</a>
+    </img>
+    <img src="https://www3.nhk.or.jp/nhkworld/en/radio/cooking/update/meal_160408_l.jpg" width="250px" >
+       <a href="https://www3.nhk.or.jp/nhkworld/id/radio/cooking/20160408.html" target="_parent">Klik Recipenya!</a>
+    </img>
+    <img src="https://www3.nhk.or.jp/nhkworld/en/radio/cooking/update/meal_150612_l.jpg" width="250px" >
+       <a href="https://www3.nhk.or.jp/nhkworld/id/radio/cooking/20150612.html" target="_parent">Klik Recipenya!</a>
+    </img>
+  </body>
+</html>
